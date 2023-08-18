@@ -3,10 +3,11 @@
 <img alt="DiscordUsername" src="https://img.shields.io/badge/Username-nottherealtar-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white"> 
 <img alt="Discord" src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white&link=https%3A%2F%2Fdiscord.gg%2FggaweTChKk">
 
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/nottherealtar?style=social&logo=twitch&logoColor=green&label=Twitch&color=white">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/nottherealtar?style=for-the-badge&logo=twitch&logoColor=green&label=Twitch&color=white">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2LzU0acQ-wwZvf3OWwobVA?style=for-the-badge&logo=youtube&logoColor=green&color=white">
 
-https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
+
 
 
 <h2 id="tars-online-cafe">Tars Online Cafe</h2>
