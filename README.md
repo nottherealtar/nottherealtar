@@ -1,6 +1,7 @@
-# Hi I'm Tar 👋
+## Hi I'm Tar 👋
 
-Welcome to my profile!
+#Welcome to my profile!
+======
 
 <div align="center">
 	<br>
