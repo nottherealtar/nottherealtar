@@ -21,6 +21,10 @@
     - <a href="https://bit.ly/tarstwitch">Twitch</a>
         - <a href="https://bit.ly/tarsyt">YouTube</a>
             - <a href="https://bit.ly/tarskick">Kick</a></p>
+            
+![Static Badge](https://img.shields.io/badge/Linktree%20-passing0brightgreen?link=https%3A%2F%2Fbit.ly%2Fnottherealtar)
+
+            
 <h2 id="motivation">Motivation</h2>
 <ul>
 <li>To expand my knowledge of programming, explore different project horizons and make a name/living for myself in the coding environment.<ul>
