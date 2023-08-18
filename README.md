@@ -22,7 +22,8 @@
         - <a href="https://bit.ly/tarsyt">YouTube</a>
             - <a href="https://bit.ly/tarskick">Kick</a></p>
             
-![Static Badge](https://img.shields.io/badge/Linktree%20-passing0brightgreen?link=https%3A%2F%2Fbit.ly%2Fnottherealtar)
+![Static Badge](https://img.shields.io/badge/LinkTree-About_Me-green?logo=linktree&logoColor=green&label=LinkTree&color=white&link=https%3A%2F%2Fbit.ly%2Fnottherealtar)
+
 
             
 <h2 id="motivation">Motivation</h2>
