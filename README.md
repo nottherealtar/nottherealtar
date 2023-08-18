@@ -1,4 +1,6 @@
 <h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I&#39;m Tar 👋 | Welcome to my GitHub Profile !</h1>
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkTree-About_Me-green?style=for-the-badge&logo=linktree&logoColor=green&label=LinkTree&color=white">
+
 <h2 id="tars-online-cafe">Tars Online Cafe</h2>
 <ul>
 <li>Front-End &amp;&amp; Back-End Dev Team.<ul>
@@ -22,8 +24,6 @@
         - <a href="https://bit.ly/tarsyt">YouTube</a>
             - <a href="https://bit.ly/tarskick">Kick</a></p>
             
-![Static Badge](https://img.shields.io/badge/LinkTree-About_Me-green?logo=linktree&logoColor=green&label=LinkTree&color=white&link=https%3A%2F%2Fbit.ly%2Fnottherealtar)
-
 
             
 <h2 id="motivation">Motivation</h2>
