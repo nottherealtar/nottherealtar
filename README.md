@@ -1,4 +1,4 @@
-#Hi I'm Tar 👋 | Welcome to my GitHub Profile !
+##Hi I'm Tar 👋 | Welcome to my GitHub Profile !
 
 <div align="center">
 	<br>
