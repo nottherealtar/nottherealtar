@@ -1,6 +1,7 @@
 <h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I&#39;m Tar 👋 | Welcome to my GitHub Profile !</h1>
-<img alt="Static Badge" src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Username-nottherealtar-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white"> <img alt="Discord" src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white">
+<img alt="CodingLanguage" src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
+<img alt="DiscordUsername" src="https://img.shields.io/badge/Username-nottherealtar-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white"> 
+<img alt="DiscordChat" src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white">
 
 
 
