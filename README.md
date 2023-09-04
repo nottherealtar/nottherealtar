@@ -8,7 +8,7 @@
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=radical)
 
 <h2 id="tars-online-cafe">Tars Online Cafe:</h2>
 <ul>
