@@ -10,7 +10,7 @@
 
 
 
-<h2 id="tars-online-cafe">Tars Online Cafe</h2>
+<h2 id="tars-online-cafe">Tars Online Cafe:</h2>
 <ul>
 <li>Front-End &amp;&amp; Back-End Dev Team.<ul>
 <li>Efficient, Professional &amp; Effective.<ul>
