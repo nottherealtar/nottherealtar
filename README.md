@@ -8,7 +8,7 @@
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=chartreuse-dark)
 
 <h2 id="tars-online-cafe">Tars Online Cafe:</h2>
 <ul>
@@ -28,7 +28,7 @@
     <br></p>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="more-information">More Information</h2>
 <p> <strong>You can find out more about me here&gt;</strong> <a href="https://bit.ly/nottherealtar">LinkTree</a>
