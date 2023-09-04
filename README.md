@@ -28,6 +28,7 @@
     <br></p>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="more-information">More Information</h2>
 <p> <strong>You can find out more about me here&gt;</strong> <a href="https://bit.ly/nottherealtar">LinkTree</a>
