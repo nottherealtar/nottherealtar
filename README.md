@@ -1,11 +1,5 @@
 <h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I&#39;m Tar 👋 | Welcome to my GitHub Profile !</h1>
-<img alt="CodingLanguage" src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
-<img alt="DiscordUsername" src="https://img.shields.io/badge/Username-nottherealtar-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white"> 
-<img alt="Discord" src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white&link=https%3A%2F%2Fdiscord.gg%2FggaweTChKk">
-
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/nottherealtar?style=for-the-badge&logo=twitch&logoColor=green&label=Twitch&color=white">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2LzU0acQ-wwZvf3OWwobVA?style=for-the-badge&logo=youtube&logoColor=green&color=white">
-
+<a href='https://discord.gg/ggaweTChKk' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/My_Server-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=black'/></a>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
