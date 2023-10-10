@@ -1,6 +1,6 @@
 <h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I&#39;m Tar 👋 | Welcome to my GitHub Profile !</h1>
 <a href='https://discord.gg/ggaweTChKk' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/My_Server-100000?style=for-the-badge&logo=Discord&logoColor=green&labelColor=black&color=black'/></a>
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=black">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&labelColor=black&color=black">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
