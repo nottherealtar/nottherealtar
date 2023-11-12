@@ -1,45 +1,31 @@
-<h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I&#39;m Tar 👋 | Welcome to my GitHub Profile !</h1>
-<a href='https://discord.gg/ggaweTChKk' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/My_Server-100000?style=for-the-badge&logo=Discord&logoColor=green&labelColor=black&color=black'/></a>
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&labelColor=black&color=black">
-
-<a href='https://bit.ly/nottherealtar' target="_blank"><img alt='visual studio' src='https://img.shields.io/badge/I_mainly code in-100000?style=for-the-badge&logo=visual studio&logoColor=white&labelColor=black&color=black'/></a> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🌱 About Me:
+🔭 I’m currently working on Discord Bots and Python automation management.<br>👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🤝 I’m looking for help with Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>💬 Ask me about my discord server and some of my projects<br>⚡ Fun fact I have a cat.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nottherealtar&theme=green-nur&border_radius=4.2&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=00EB19&currStreakLabel=46EB00&background=000000&sideLabels=EBEBEB&sideNums=08FF00&currStreakNum=00FF33)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CsR9zECCQt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar) 
 
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nottherealtar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nottherealtar&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 id="tars-online-cafe">Tars Online Cafe:</h2>
-<ul>
-<li>Front-End &amp;&amp; Back-End Dev Team.<ul>  
-<li>Efficient, Professional &amp; Effective.<ul>
-<li>built to be to the point.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>    <img alt="Coding" width="450" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nottherealtar&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<h2 id="connect">Connect With Me</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<a href='https://bit.ly/nottherealtar' target="_blank"><img alt='Linktree' src='https://img.shields.io/badge/My_Linktree-100000?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=black&color=black'/></a>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<a href='https://bit.ly/nottherealtar' target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=nottherealtar&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<a href='[https://bit.ly/nottherealtar](https://bit.ly/3smqFxK)' target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nottherealtar) 
 
-<a href='https://bit.ly/nottherealtar' target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-<a href='https://bit.ly/tarstwitch' target="_blank">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-
-<a href='https://bit.ly/tarsyt' target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
-
-       
-<h2 id="motivation">Motivation</h2>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) | ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<h2 id="tropyroom">My Trophy Collection</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nottherealtar&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
