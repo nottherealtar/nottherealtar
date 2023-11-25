@@ -1,6 +1,9 @@
 # 🌱 About Me:
 👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>⚡ Fun fact I have a cat.
 
+<p align="center">
+    <img width="200" src="./tocl.svg" alt="logo">
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CsR9zECCQt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar) 
