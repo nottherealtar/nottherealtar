@@ -1,5 +1,5 @@
 # 🌱 About Me:
-🔭 I’m currently working on Discord Bots and Python automation management.<br>👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🤝 I’m looking for help with Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>💬 Ask me about my discord server and some of my projects<br>⚡ Fun fact I have a cat.
+👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>⚡ Fun fact I have a cat.
 
 
 ## 🌐 Socials:
