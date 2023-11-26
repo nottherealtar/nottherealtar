@@ -1,7 +1,8 @@
-<div align="center">
+
 # 🌱 About Me:
 👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>⚡ Fun fact I have a cat.
-
+<div align="center">
+    
 <p align="center">
     <img width="200" src="./tocl.svg" alt="logo">
 </p>
