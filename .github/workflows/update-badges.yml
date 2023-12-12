@@ -2,8 +2,8 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,3 +11,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Updating Credly Badges" # optional
+          CREDLY_USER: <joshuacoetzer> # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
