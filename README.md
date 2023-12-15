@@ -15,6 +15,7 @@
 
 [![Update badges](https://github.com/nottherealtar/nottherealtar/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/nottherealtar/nottherealtar/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
+[![Freshdesk Expert Certification](https://images.credly.com/size/110x110/images/72685e03-54cd-4444-914f-a686fd70dc54/image.png)](http://www.credly.com/badges/beae03eb-b967-44b7-bde2-49b5014cd9aa "Freshdesk Expert Certification")
 <!--END_SECTION:badges-->
 
 # 📊 GitHub Stats:
