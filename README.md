@@ -1,6 +1,6 @@
 
 # 🌱 About Me:
-🏢I currently work at [FreshTechAfrica](https://www.freshtechafrica.com/) as a Suppor Technician.<br>👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>⚡ Fun fact I have a cat.
+🏢I currently work at [FreshTechAfrica](https://www.freshtechafrica.com/) as a Support Technician.<br>👯 I’m looking to collaborate on Ai projects and Red V3 Cogs<br>🌱 I’m currently learning Typescript, React & Rust<br>⚡ Fun fact I have a cat.
 <div align="center">
     
 <p align="center">
