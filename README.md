@@ -37,6 +37,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nottherealtar&icon=2&color=3)](https://visitcount.itsvg.in)
 
+[!](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nottherealtar) 
 </div>
