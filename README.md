@@ -3,7 +3,7 @@
 <div align="center">
     
 <p align="center">
-    <img width="200" src="./banner1.gif" alt="logo">
+    <img src="./banner1.gif" alt="logo">
 </p>
 
 ## 🌐 Socials:
