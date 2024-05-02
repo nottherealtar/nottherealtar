@@ -16,6 +16,7 @@
 <!--START_SECTION:badges-->
 [![Freshworks Implementation Foundation Certification](https://images.credly.com/size/110x110/images/158d8d0c-aef2-433c-ac0b-6b7b075b0072/image.png)](http://www.credly.com/badges/37d28132-f8a8-45c8-88e1-36774fb7d35a "Freshworks Implementation Foundation Certification")
 [![Freshdesk Expert Certification](https://images.credly.com/size/110x110/images/72685e03-54cd-4444-914f-a686fd70dc54/image.png)](http://www.credly.com/badges/beae03eb-b967-44b7-bde2-49b5014cd9aa "Freshdesk Expert Certification")
+
 <!--END_SECTION:badges-->
 
 # 📊 GitHub Stats:
