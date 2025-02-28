@@ -1,6 +1,4 @@
-<div align="center">
-<h1><b>Nottherealtar</b></h1> 
-</div>
+![Header](https://github.com/nottherealtar/nottherealtar/blob/main/github-header-image%20(1).png)
 
 <div align="center">
   <p><b>Profile Views</b></p>
