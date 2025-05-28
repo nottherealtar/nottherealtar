@@ -14,11 +14,7 @@
 <h3> <strong> Languages, Frameworks, and Tools 💻</strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,html,css,tailwind,js,ts,react,nextjs,java,cpp,py,swift,arduino,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui,rust,python,flask,azure" alt="skills logos" />
 
-
 [![Update badges](https://github.com/nottherealtar/nottherealtar/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/nottherealtar/nottherealtar/actions/workflows/update-badges.yml)
-
-<h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker, c#, swift, scala" alt="Looking to learn">
 
 <!--START_SECTION:badges-->
 [![Freshworks Implementation Foundation Certification](https://images.credly.com/size/110x110/images/158d8d0c-aef2-433c-ac0b-6b7b075b0072/image.png)](http://www.credly.com/badges/37d28132-f8a8-45c8-88e1-36774fb7d35a "Freshworks Implementation Foundation Certification")
