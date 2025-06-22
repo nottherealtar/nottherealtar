@@ -25,7 +25,7 @@ Regex Rebellion: Wrote a regex so wild it matched everything except what I wante
 ## :octocat: My Github Life
 [![My Github Life](https://stardev.io/developers/nottherealtar/badge/languages/global.svg)](https://stardev.io/developers/nottherealtar)<br/>
 
-### 🎵 My Spotify 
+### ![Spotify Icon](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/spotify.svg) My Spotify 
 ![My Spotify Life](https://spotify-recently-played-readme.vercel.app/api?user=dnpwismki3sc57ctsrfp4fmui&unique={true|1|on|yes})<br/>
 
 
