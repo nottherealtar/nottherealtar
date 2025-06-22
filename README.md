@@ -7,7 +7,7 @@
 
 <div align="center">
   
-Regex Rebellion: Wrote a regex so wild it matched everything except what I wanted. Now I tame it with tests.
+> **Wrote a regex so wild it matched everything except what I wanted. Now I tame it with tests.**
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar)<br/>
