@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/nottherealtar/count.svg" width="240px" />
+  <img src="https://profile-counter.glitch.me/nottherealtar/count.svg" width="260px" />
 </div>
 
 <div align="center">
