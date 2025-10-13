@@ -22,7 +22,6 @@
 <!--END_SECTION:badges-->
 
 ## :octocat: My Github Life
-[![My Github Life](https://stardev.io/developers/nottherealtar/badge/languages/global.svg)](https://stardev.io/developers/nottherealtar)<br/>
 
 ### ![Spotify Icon](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/spotify.svg) My Spotify 
 ![My Spotify Life](https://spotify-recently-played-readme.vercel.app/api?user=dnpwismki3sc57ctsrfp4fmui&unique={true|1|on|yes})<br/>
