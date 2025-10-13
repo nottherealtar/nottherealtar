@@ -1,13 +1,10 @@
 [![Header](https://github.com/nottherealtar/nottherealtar/blob/main/github-header-image%20(1).png)](https://www.tarsonlinecafe.work/)
 
 <div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/nottherealtar/count.svg" width="260px" />
-</div>
-
-<div align="center">
   
-> **Wrote a regex so wild it matched everything except what I wanted. Now I tame it with tests.**
+> “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+
+ Aaron Swartz (2013 ~ 1986) -
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar)<br/>
