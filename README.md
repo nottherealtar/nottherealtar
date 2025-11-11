@@ -1,57 +1,285 @@
 [![Header](https://github.com/nottherealtar/nottherealtar/blob/main/github-header-image%20(1).png)](https://www.tarsonlinecafe.work/)
 
 <div align="center">
-  
-> “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
 
- Aaron Swartz (2013 ~ 1986)
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar)<br/>
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/CsR9zECCQt)]([https://discord.gg/INVITE](https://discord.gg/CsR9zECCQt))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Welcome+to+my+terminal...;Initializing+systems...;Loading+profile...;Ready+for+input.)](https://git.io/typing-svg)
 
+</div>
 
-<h3> <strong> Languages, Frameworks, and Tools 💻</strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,html,css,tailwind,js,ts,react,nextjs,java,cpp,py,swift,arduino,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui,rust,python,flask,azure" alt="skills logos" />
+---
 
-<!--START_SECTION:badges-->
-[![Freshworks Implementation Foundation Certification](https://images.credly.com/size/110x110/images/158d8d0c-aef2-433c-ac0b-6b7b075b0072/image.png)](http://www.credly.com/badges/37d28132-f8a8-45c8-88e1-36774fb7d35a "Freshworks Implementation Foundation Certification")
-[![Freshdesk Expert Certification](https://images.credly.com/size/110x110/images/72685e03-54cd-4444-914f-a686fd70dc54/image.png)](http://www.credly.com/badges/beae03eb-b967-44b7-bde2-49b5014cd9aa "Freshdesk Expert Certification")</br>
-[![Freshworks Insider Certification1](https://d2wp3k80krjnzl.cloudfront.net/badges/openQuestion2_badge.png)](https://freshworksinsiders.customershome.com/home/challenges)
-[![Freshworks Insider Certification2](https://d2wp3k80krjnzl.cloudfront.net/badges/education1_badge.png)](https://freshworksinsiders.customershome.com/home/challenges)
-<!--END_SECTION:badges-->
-
-## :octocat: My Github Life
-
-### ![Spotify Icon](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/spotify.svg) My Spotify 
-![My Spotify Life](https://spotify-recently-played-readme.vercel.app/api?user=dnpwismki3sc57ctsrfp4fmui&unique={true|1|on|yes})<br/>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6BD600&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-
-## 📊 Overrall Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nottherealtar&theme=chartreuse-dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-### 📊Graphed Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nottherealtar&custom_title=Nottherealtar's%20GitHub%20Activity%20Graph&bg_color=000000&color=6BD600&line=08792B&point=F8D847&area_color=022112&title_color=6BD600&area=true" alt="nottherealtars's Github Activity Graph" width="100%">
+
+### `$ neofetch --user-info`
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nottherealtar&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br/>
-
-### 🐍 My Commit Snake
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
-
-  ### 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nottherealtar) 
-</div>
+```yaml
+profile:
+  name: "Josh"
+  role: "Fullstack Developer / CRM Config Owner"
+  company: "Wetility"
   
+current_status:
+  location: "JHB 🇿🇦"
+  age: "23"
+  exp: "6+ years"
+  
+experience:
+  - "CRM Config Owner @ Wetility (2024-Present)"
+  - "Senior IT Specialist & Solutions Architect @ FreshTechAfrica (2023-2024)"
+  - "Solutions Architect @ Tarsonlinecafe (2018-2022)"
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+![GitHub Analytics](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00&custom_title=📊%20GitHub%20Analytics&include_all_commits=true&count_private=true&line_height=21)
+
+</div>
+
+<!--STATS_SECTION:start-->
+```bash
+#!/bin/bash
+# Quick Stats
+
+echo "📊 GitHub Analytics"
+echo "━━━━━━━━━━━━━━━━━━━"
+echo "Total Commits: ████████░░ 80%"
+echo "Active Repos:  ██████████ 100%"
+echo "Code Reviews:  ██████░░░░ 60%"
+echo "Issues Fixed:  ████████░░ 75%"
+echo ""
+echo "⚡ Current Streak: 🔥 Days"
+```
+<!--STATS_SECTION:end-->
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `$ ls -la ~/skills`
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### `./languages/`
+```
+drwxr-xr-x  2 user  staff  
+-rw-r--r--  JavaScript  
+-rw-r--r--  TypeScript  
+-rw-r--r--  Python  
+-rw-r--r--  Rust  
+-rw-r--r--  C/C++  
+-rwxr-xr-x  Bash/Shell  
+```
+
+</td>
+<td width="33%" valign="top">
+
+#### `./frameworks/`
+```
+drwxr-xr-x  2 user  staff  
+-rw-r--r--  React  
+-rw-r--r--  Next.js  
+-rw-r--r--  Node.js  
+-rw-r--r--  FastAPI  
+-rw-r--r--  Django  
+-rwxr-xr-x  TailwindCSS  
+```
+
+</td>
+<td width="33%" valign="top">
+
+#### `./tools/`
+```
+drwxr-xr-x  2 user  staff  
+-rw-r--r--  VS Code  
+-rw-r--r--  Git  
+-rw-r--r--  NoSQL  
+-rw-r--r--  Superbase  
+-rw-r--r--  n8n  
+-rwxr-xr-x  Azure  
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### `$ htop --sort-by=activity`
+
+</div>
+
+```
+┌─────────────────────────────────── ACTIVE PROCESSES ───────────────────────────────────┐
+│                                                                                         │
+│  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │
+│  ────────────────────────────────────────────────────────────────────────────────────  │
+│  1337   nottherealtar  95%    12%   48:32    python cryptography_research.py          │
+│  2048   nottherealtar  78%    8%    32:15    node automation_scripts/deploy.js        │
+│  4096   nottherealtar  45%    15%   24:08    rust quantum_simulator --threads=8       │
+│  8192   nottherealtar  23%    5%    16:42    docker-compose up -d                     │
+│  1024   nottherealtar  12%    3%    08:19    vim README.md                            │
+│                                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `$ cat ~/current_projects.json`
+
+</div>
+
+```json
+{
+  "active": [
+    {
+      "name": "project-alpha",
+      "status": "🟢 in_progress",
+      "tech": ["React", "Node.js", "PostgreSQL"],
+      "progress": "████████░░ 75%"
+    },
+    {
+      "name": "cli-tool-beta",
+      "status": "🟡 planning",
+      "tech": ["Rust", "CLI"],
+      "progress": "███░░░░░░░ 30%"
+    },
+    {
+      "name": "api-service",
+      "status": "🟢 deployed",
+      "tech": ["FastAPI", "Docker", "Redis"],
+      "progress": "██████████ 100%"
+    }
+  ]
+}
+```
+
+---
+
+<div align="center">
+
+### `$ git log --graph --oneline --all`
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/nottherealtar">
+  <img src="https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/nottherealtar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nottherealtar&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/nottherealtar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `$ tail -f ~/activity.log`
+
+</div>
+
+<!--START_SECTION:activity-->
+1. ⭐ Starred repository
+2. 🎉 Merged PR
+3. 💬 Commented on issue
+4. 🔨 Pushed commits
+5. 📝 Opened new issue
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### `$ ps aux | grep "social_links"`
+
+</div>
+
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  [nottherealtar@github ~]$ ./connect.sh                         │
+│                                                                 │
+│  Available connections:                                         │
+│                                                                 │
+```
+
+<p align="center">
+  <a href="https://github.com/nottherealtar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tarsonlinecafe.work">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/CsR9zECCQt">
+    <img src="https://img.shields.io/discord/1170982821062524948?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2" />
+  </a>
+</p>
+
+```bash
+│                                                                 │
+│                                                                 │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+---
+
+<div align="center">
+
+```bash
+[user@github ~]$ exit
+logout
+Connection to github.com closed.
+```
+
+<img src="https://komarev.com/ghpvc/?username=nottherealtar&color=00ff00&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ and excessive amounts of caffeine | Powered by Markdown & GitHub Actions</sub>
+</div>
