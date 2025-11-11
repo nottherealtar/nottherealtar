@@ -51,10 +51,10 @@ experience:
 
 echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: ████████░░ 80%"
+echo "Total Commits: █░░░░░░░░░ 11%"
 echo "Active Repos:  ██████████ 100%"
-echo "Code Reviews:  ██████░░░░ 60%"
-echo "Issues Fixed:  ████████░░ 75%"
+echo "Code Reviews:  ░░░░░░░░░░ 3%"
+echo "Issues Fixed:  ░░░░░░░░░░ 8%"
 echo ""
 echo "⚡ Current Streak: 🔥 Days"
 ```
@@ -136,11 +136,11 @@ drwxr-xr-x  2 user  staff
 │                                                                                         │
 │  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │
 │  ────────────────────────────────────────────────────────────────────────────────────  │
-│  1337   nottherealtar  95%    12%   48:32    python cryptography_research.py          │
-│  2048   nottherealtar  78%    8%    32:15    node automation_scripts/deploy.js        │
-│  4096   nottherealtar  45%    15%   24:08    rust quantum_simulator --threads=8       │
-│  8192   nottherealtar  23%    5%    16:42    docker-compose up -d                     │
-│  1024   nottherealtar  12%    3%    08:19    vim README.md                            │
+│  1337    nottherealtar  96%    7%     34:12    tsx build --watch                                  │
+│  2479    nottherealtar  1%     12%    31:55    node automation_scripts/deploy.js                  │
+│  3131    nottherealtar  1%     9%     9:57     html script.html                                   │
+│  3970    nottherealtar  1%     16%    17:23    mdx script.mdx                                     │
+│  4649    nottherealtar  0%     6%     47:08    scss script.scss                                   │
 │                                                                                         │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -159,22 +159,28 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "project-alpha",
-      "status": "🟢 in_progress",
-      "tech": ["React", "Node.js", "PostgreSQL"],
-      "progress": "████████░░ 75%"
+      "name": "nottherealtar",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "███████░░░ 71%"
     },
     {
-      "name": "cli-tool-beta",
-      "status": "🟡 planning",
-      "tech": ["Rust", "CLI"],
-      "progress": "███░░░░░░░ 30%"
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "█████████░ 93%"
     },
     {
-      "name": "api-service",
-      "status": "🟢 deployed",
-      "tech": ["FastAPI", "Docker", "Redis"],
-      "progress": "██████████ 100%"
+      "name": "Arduino-UNO-R4-Wireless",
+      "status": "🟡 stable",
+      "tech": [
+        "JavaScript"
+      ],
+      "progress": "████████░░ 85%"
     }
   ]
 }
@@ -224,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred repository
-2. 🎉 Merged PR
-3. 💬 Commented on issue
-4. 🔨 Pushed commits
-5. 📝 Opened new issue
+1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
+1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
+1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
+1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
+1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 <!--END_SECTION:activity-->
 
 ---
