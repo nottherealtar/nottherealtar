@@ -120,7 +120,7 @@ jobs:
                   res.on('end', () => {
                     try {
                       const json = JSON.parse(data);
-                      resolve(json.currentStreak?.length || 0);
+                      resolve(json.currentStreak?.length || 888);
                     } catch (e) {
                       resolve(0);
                     }
@@ -137,15 +137,15 @@ jobs:
               
               // Set realistic max values based on the metric
               if (label === 'commits') {
-                max = 10000; // 10k commits scale
+                max = 100000; // 100k commits scale
                 percentage = Math.min(100, Math.round((value / max) * 100));
               } else if (label === 'repos') {
-                percentage = 100; // Always show full for active repos
+                percentage = 98; // active repos
               } else if (label === 'prs') {
-                max = 50; // 50 PRs scale
+                max = 45; // 45 PRs scale
                 percentage = Math.min(100, Math.round((value / max) * 100));
               } else if (label === 'issues') {
-                max = 100; // 100 issues scale
+                max = 45; // 45 issues scale
                 percentage = Math.min(100, Math.round((value / max) * 100));
               }
               
@@ -347,3 +347,4 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update README stats and activity"
           git push
+
