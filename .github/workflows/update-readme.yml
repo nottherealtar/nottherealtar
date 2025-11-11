@@ -76,6 +76,7 @@ jobs:
         with:
           script: |
             const fs = require('fs');
+            const https = require('https');
             
             // Fetch user data
             const { data: user } = await github.rest.users.getByUsername({
@@ -92,42 +93,68 @@ jobs:
             const totalRepos = repos.length;
             const activeRepos = repos.filter(r => !r.archived && !r.fork).length;
             
-            // Fetch commits (approximate from recent activity)
-            let totalCommits = 0;
-            for (const repo of repos.slice(0, 10)) {
-              try {
-                const { data: commits } = await github.rest.repos.listCommits({
-                  owner: 'nottherealtar',
-                  repo: repo.name,
-                  author: 'nottherealtar',
-                  per_page: 100
-                });
-                totalCommits += commits.length;
-              } catch (e) {
-                // Skip repos with no commits or access issues
-              }
-            }
+            // Get commit count from GitHub API (more accurate)
+            const { data: searchCommits } = await github.rest.search.commits({
+              q: `author:nottherealtar`,
+              per_page: 1
+            });
+            const totalCommits = searchCommits.total_count;
             
             // Fetch issues and PRs
             const { data: issues } = await github.rest.search.issuesAndPullRequests({
               q: `author:nottherealtar type:issue is:closed`,
-              per_page: 100
+              per_page: 1
             });
             
             const { data: prs } = await github.rest.search.issuesAndPullRequests({
-              q: `author:nottherealtar type:pr is:merged`,
-              per_page: 100
+              q: `author:nottherealtar type:pr`,
+              per_page: 1
             });
             
-            // Create progress bars
-            const createBar = (value, max) => {
-              const percentage = Math.min(100, Math.round((value / max) * 100));
-              const filled = Math.floor(percentage / 10);
-              const empty = 10 - filled;
-              return '█'.repeat(filled) + '░'.repeat(empty) + ` ${percentage}%`;
+            // Fetch streak from streak-stats API
+            const getStreak = () => {
+              return new Promise((resolve) => {
+                https.get(`https://github-readme-streak-stats.herokuapp.com/?user=nottherealtar&type=json`, (res) => {
+                  let data = '';
+                  res.on('data', (chunk) => { data += chunk; });
+                  res.on('end', () => {
+                    try {
+                      const json = JSON.parse(data);
+                      resolve(json.currentStreak?.length || 0);
+                    } catch (e) {
+                      resolve(0);
+                    }
+                  });
+                }).on('error', () => resolve(0));
+              });
             };
             
-            const stats = '#!/bin/bash\n# Quick Stats\n\necho "📊 GitHub Analytics"\necho "━━━━━━━━━━━━━━━━━━━"\necho "Total Commits: ' + createBar(totalCommits, 1000) + '"\necho "Active Repos:  ' + createBar(activeRepos, activeRepos) + '"\necho "Code Reviews:  ' + createBar(prs.total_count, 100) + '"\necho "Issues Fixed:  ' + createBar(issues.total_count, 100) + '"\necho ""\necho "⚡ Current Streak: 🔥 Days"';
+            const currentStreak = await getStreak();
+            
+            // Create progress bars with realistic scales
+            const createBar = (value, label) => {
+              let percentage, max;
+              
+              // Set realistic max values based on the metric
+              if (label === 'commits') {
+                max = 10000; // 10k commits scale
+                percentage = Math.min(100, Math.round((value / max) * 100));
+              } else if (label === 'repos') {
+                percentage = 100; // Always show full for active repos
+              } else if (label === 'prs') {
+                max = 50; // 50 PRs scale
+                percentage = Math.min(100, Math.round((value / max) * 100));
+              } else if (label === 'issues') {
+                max = 100; // 100 issues scale
+                percentage = Math.min(100, Math.round((value / max) * 100));
+              }
+              
+              const filled = Math.floor(percentage / 10);
+              const empty = 10 - filled;
+              return '█'.repeat(filled) + '░'.repeat(empty) + ' ' + percentage + '%';
+            };
+            
+            const stats = '#!/bin/bash\n# Quick Stats\n\necho "📊 GitHub Analytics"\necho "━━━━━━━━━━━━━━━━━━━"\necho "Total Commits: ' + createBar(totalCommits, 'commits') + '"\necho "Active Repos:  ' + createBar(activeRepos, 'repos') + '"\necho "Code Reviews:  ' + createBar(prs.total_count, 'prs') + '"\necho "Issues Fixed:  ' + createBar(issues.total_count, 'issues') + '"\necho ""\necho "⚡ Current Streak: ' + currentStreak + ' Days"';
             
             // Read current README
             let readme = fs.readFileSync('README.md', 'utf8');
