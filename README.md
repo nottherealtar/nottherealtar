@@ -51,12 +51,12 @@ experience:
 
 echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: █░░░░░░░░░ 11%"
+echo "Total Commits: ██████████ 100%"
 echo "Active Repos:  ██████████ 100%"
-echo "Code Reviews:  ░░░░░░░░░░ 3%"
-echo "Issues Fixed:  ░░░░░░░░░░ 8%"
+echo "Code Reviews:  ░░░░░░░░░░ 8%"
+echo "Issues Fixed:  ░░░░░░░░░░ 9%"
 echo ""
-echo "⚡ Current Streak: 🔥 Days"
+echo "⚡ Current Streak: 0 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -136,11 +136,11 @@ drwxr-xr-x  2 user  staff
 │                                                                                         │
 │  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │
 │  ────────────────────────────────────────────────────────────────────────────────────  │
-│  1337    nottherealtar  96%    7%     34:12    tsx build --watch                                  │
-│  2479    nottherealtar  1%     12%    31:55    node automation_scripts/deploy.js                  │
-│  3131    nottherealtar  1%     9%     9:57     html script.html                                   │
-│  3970    nottherealtar  1%     16%    17:23    mdx script.mdx                                     │
-│  4649    nottherealtar  0%     6%     47:08    scss script.scss                                   │
+│  1337    nottherealtar  96%    15%    44:59    tsx build --watch                                  │
+│  2833    nottherealtar  1%     12%    12:49    node automation_scripts/deploy.js                  │
+│  3363    nottherealtar  1%     8%     7:32     html script.html                                   │
+│  4473    nottherealtar  1%     15%    50:44    mdx script.mdx                                     │
+│  5018    nottherealtar  0%     13%    41:00    scss script.scss                                   │
 │                                                                                         │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 71%"
+      "progress": "███████░░░ 73%"
     },
     {
       "name": "brrrcommits",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 74%"
     },
     {
       "name": "Arduino-UNO-R4-Wireless",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "████████░░ 85%"
+      "progress": "████████░░ 84%"
     }
   ]
 }
