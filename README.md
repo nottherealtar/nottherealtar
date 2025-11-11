@@ -28,6 +28,8 @@
 
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6BD600&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
 ## 📊 Overrall Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nottherealtar&theme=chartreuse-dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
