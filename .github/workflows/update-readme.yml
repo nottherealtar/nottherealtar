@@ -24,12 +24,52 @@ jobs:
           node-version: '20'
 
       - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/github-script@v7
         with:
-          COMMIT_MSG: '⚡ Update recent activity'
-          MAX_LINES: 5
+          script: |
+            const fs = require('fs');
+            
+            // Fetch recent activity
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: 'nottherealtar',
+              per_page: 5
+            });
+            
+            // Format activity
+            const activityLines = events.map(event => {
+              const repo = event.repo.name;
+              const date = new Date(event.created_at).toLocaleDateString();
+              
+              switch(event.type) {
+                case 'PushEvent':
+                  const commits = event.payload.commits?.length || 1;
+                  return `1. 🔨 Pushed ${commits} commit(s) to ${repo}`;
+                case 'PullRequestEvent':
+                  return `1. 🎉 ${event.payload.action} PR in ${repo}`;
+                case 'IssuesEvent':
+                  return `1. 📝 ${event.payload.action} issue in ${repo}`;
+                case 'WatchEvent':
+                  return `1. ⭐ Starred ${repo}`;
+                case 'ForkEvent':
+                  return `1. 🍴 Forked ${repo}`;
+                case 'CreateEvent':
+                  return `1. 🆕 Created ${event.payload.ref_type} in ${repo}`;
+                default:
+                  return `1. 📌 ${event.type.replace('Event', '')} in ${repo}`;
+              }
+            }).slice(0, 5);
+            
+            // Read README
+            let readme = fs.readFileSync('README.md', 'utf8');
+            
+            // Replace activity section
+            const activityRegex = /<!--START_SECTION:activity-->[\s\S]*?<!--END_SECTION:activity-->/;
+            const activitySection = '<!--START_SECTION:activity-->\n' + activityLines.join('\n') + '\n<!--END_SECTION:activity-->';
+            readme = readme.replace(activityRegex, activitySection);
+            
+            // Write README
+            fs.writeFileSync('README.md', readme);
+            console.log('Updated recent activity');
 
       - name: Update GitHub Stats
         uses: actions/github-script@v7
@@ -87,7 +127,7 @@ jobs:
               return '█'.repeat(filled) + '░'.repeat(empty) + ` ${percentage}%`;
             };
             
-            const stats = '#!/bin/bash\n# Quick Stats\n\necho "📊 GitHub Analytics"\necho "━━━━━━━━━━━━━━━━━━━"\necho "Total Commits: ' + createBar(totalCommits, 1000) + '"\necho "Active Repos:  ' + createBar(activeRepos, activeRepos) + '"\necho "Code Reviews:  ' + createBar(prs.total_count, 100) + '"\necho "Issues Fixed:  ' + createBar(issues.total_count, 100) + '"\necho ""\necho "⚡ Current Streak:  Days"';
+            const stats = '#!/bin/bash\n# Quick Stats\n\necho "📊 GitHub Analytics"\necho "━━━━━━━━━━━━━━━━━━━"\necho "Total Commits: ' + createBar(totalCommits, 1000) + '"\necho "Active Repos:  ' + createBar(activeRepos, activeRepos) + '"\necho "Code Reviews:  ' + createBar(prs.total_count, 100) + '"\necho "Issues Fixed:  ' + createBar(issues.total_count, 100) + '"\necho ""\necho "⚡ Current Streak: 🔥 Days"';
             
             // Read current README
             let readme = fs.readFileSync('README.md', 'utf8');
