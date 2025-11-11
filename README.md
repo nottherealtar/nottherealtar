@@ -53,10 +53,10 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: █░░░░░░░░░ 19%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ░░░░░░░░░░ 0%"
+echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 800 Days"
+echo "⚡ Current Streak: 0 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "███████░░░ 79%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 62%"
+      "progress": "████████░░ 85%"
+    },
+    {
+      "name": "nottherealtar",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "█████████░ 93%"
     },
     {
       "name": "Arduino-UNO-R4-Wireless",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "███████░░░ 76%"
     }
   ]
 }
