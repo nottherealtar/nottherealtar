@@ -256,15 +256,7 @@ echo "⚡ Current Streak: 🔥 Days"`;
               `│  ${String(p.pid).padEnd(7)} nottherealtar  ${String(p.cpu + '%').padEnd(6)} ${String(p.mem + '%').padEnd(6)} ${p.time.padEnd(8)} ${p.command.padEnd(50)} │`
             ).join('\n');
             
-            const htopSection = `\`\`\`
-┌─────────────────────────────────── ACTIVE PROCESSES ───────────────────────────────────┐
-│                                                                                         │
-│  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │
-│  ────────────────────────────────────────────────────────────────────────────────────  │
-${processLines}
-│                                                                                         │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-\`\`\``;
+            const htopSection = '```\n┌─────────────────────────────────── ACTIVE PROCESSES ───────────────────────────────────┐\n│                                                                                         │\n│  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │\n│  ────────────────────────────────────────────────────────────────────────────────────  │\n' + processLines + '\n│                                                                                         │\n└─────────────────────────────────────────────────────────────────────────────────────────┘\n```';
             
             // Read current README
             let readme = fs.readFileSync('README.md', 'utf8');
