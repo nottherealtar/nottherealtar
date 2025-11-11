@@ -87,17 +87,7 @@ jobs:
               return '█'.repeat(filled) + '░'.repeat(empty) + ` ${percentage}%`;
             };
             
-            const stats = `#!/bin/bash
-# Quick Stats
-
-echo "📊 GitHub Analytics"
-echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: ${createBar(totalCommits, 1000)}"
-echo "Active Repos:  ${createBar(activeRepos, activeRepos)}"
-echo "Code Reviews:  ${createBar(prs.total_count, 100)}"
-echo "Issues Fixed:  ${createBar(issues.total_count, 100)}"
-echo ""
-echo "⚡ Current Streak: 🔥 Days"`;
+            const stats = '#!/bin/bash\n# Quick Stats\n\necho "📊 GitHub Analytics"\necho "━━━━━━━━━━━━━━━━━━━"\necho "Total Commits: ' + createBar(totalCommits, 1000) + '"\necho "Active Repos:  ' + createBar(activeRepos, activeRepos) + '"\necho "Code Reviews:  ' + createBar(prs.total_count, 100) + '"\necho "Issues Fixed:  ' + createBar(issues.total_count, 100) + '"\necho ""\necho "⚡ Current Streak:  Days"';
             
             // Read current README
             let readme = fs.readFileSync('README.md', 'utf8');
