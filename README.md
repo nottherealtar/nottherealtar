@@ -4,7 +4,7 @@
   
 > “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
 
- Aaron Swartz (2013 ~ 1986) -
+ Aaron Swartz (2013 ~ 1986)
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tar2times) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottherealtar)<br/>
