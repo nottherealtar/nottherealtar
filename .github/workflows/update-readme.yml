@@ -308,18 +308,32 @@ jobs:
               pid += Math.floor(Math.random() * 1000) + 500;
             });
             
-            // Build htop section
-            const processLines = processes.map(p => 
-              `│  ${String(p.pid).padEnd(7)} nottherealtar  ${String(p.cpu + '%').padEnd(6)} ${String(p.mem + '%').padEnd(6)} ${p.time.padEnd(8)} ${p.command.padEnd(50)} │`
-            ).join('\n');
+            // Build htop section with proper alignment
+            const processLines = processes.map(p => {
+              const pidStr = String(p.pid).padEnd(6);
+              const cpuStr = String(p.cpu + '%').padStart(4);
+              const memStr = String(p.mem + '%').padStart(4);
+              const timeStr = p.time.padStart(6);
+              const cmdStr = p.command.length > 45 ? p.command.substring(0, 42) + '...' : p.command;
+              
+              return '  ' + pidStr + '  nottherealtar  ' + cpuStr + '  ' + memStr + '  ' + timeStr + '  ' + cmdStr;
+            }).join('\n');
             
-            const htopSection = '```\n┌─────────────────────────────────── ACTIVE PROCESSES ───────────────────────────────────┐\n│                                                                                         │\n│  PID    USER          CPU%   MEM%   TIME+    COMMAND                                   │\n│  ────────────────────────────────────────────────────────────────────────────────────  │\n' + processLines + '\n│                                                                                         │\n└─────────────────────────────────────────────────────────────────────────────────────────┘\n```';
+            const htopSection = '```\n' +
+              '┌─────────────────────────────────────────────────────────────────────────────┐\n' +
+              '│                          ACTIVE PROCESSES                                   │\n' +
+              '├─────────────────────────────────────────────────────────────────────────────┤\n' +
+              '│  PID     USER           CPU%  MEM%   TIME+  COMMAND                         │\n' +
+              '├─────────────────────────────────────────────────────────────────────────────┤\n' +
+              processLines.split('\n').map(line => '│' + line.padEnd(77) + '│').join('\n') + '\n' +
+              '└─────────────────────────────────────────────────────────────────────────────┘\n' +
+              '```';
             
             // Read current README
             let readme = fs.readFileSync('README.md', 'utf8');
             
             // Replace htop section
-            const htopRegex = /```\n┌─────────────────────────────────── ACTIVE PROCESSES ───────────────────────────────────┐[\s\S]*?└─────────────────────────────────────────────────────────────────────────────────────────┘\n```/;
+            const htopRegex = /```\n┌[─┐│└├┤]*?ACTIVE PROCESSES[─┐│└├┤\s\S]*?└[─]+┘\n```/;
             readme = readme.replace(htopRegex, htopSection);
             
             // Write updated README
