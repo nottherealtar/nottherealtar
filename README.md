@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 76%"
+      "progress": "███████░░░ 79%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 71%"
+      "progress": "██████░░░░ 60%"
     },
     {
       "name": "Arduino-UNO-R4-Wireless",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "█████████░ 97%"
+      "progress": "████████░░ 83%"
     }
   ]
 }
@@ -230,7 +230,7 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
+1. ⭐ Starred JustArchiNET/ArchiSteamFarm
 1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
