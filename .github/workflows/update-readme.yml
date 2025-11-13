@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
+    - cron: '0 */1 * * *' # Every 6 hours
   workflow_dispatch: # Manual trigger
   push:
     branches:
@@ -347,4 +347,5 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update README stats and activity"
           git push
+
 
