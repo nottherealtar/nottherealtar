@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 89%"
+      "progress": "█████████░ 91%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 78%"
+      "progress": "█████████░ 94%"
     },
     {
       "name": "Arduino-UNO-R4-Wireless",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "██████░░░░ 61%"
+      "progress": "████████░░ 82%"
     }
   ]
 }
