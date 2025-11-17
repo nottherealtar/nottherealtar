@@ -159,14 +159,6 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "Youtube-Shorts-Downloader-2025",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "█████████░ 98%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
@@ -175,12 +167,20 @@ drwxr-xr-x  2 user  staff
       "progress": "███████░░░ 72%"
     },
     {
+      "name": "Youtube-Shorts-Downloader-2025",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "██████░░░░ 68%"
+    },
+    {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 99%"
+      "progress": "████████░░ 82%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🆕 Created branch in nottherealtar/Youtube-Shorts-Downloader-2025
 1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 1. ⭐ Starred janhq/jan
 1. ⭐ Starred Sewer2K/KaiyaFi
 1. ⭐ Starred JustArchiNET/ArchiSteamFarm
-1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 <!--END_SECTION:activity-->
 
 ---
