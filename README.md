@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "Youtube-Shorts-Downloader-2025",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "█████████░ 98%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 96%"
+      "progress": "███████░░░ 72%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 61%"
-    },
-    {
-      "name": "Arduino-UNO-R4-Wireless",
-      "status": "🟡 stable",
-      "tech": [
-        "JavaScript"
-      ],
-      "progress": "█████████░ 91%"
+      "progress": "█████████░ 99%"
     }
   ]
 }
