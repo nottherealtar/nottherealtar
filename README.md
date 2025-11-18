@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 888 Days"
+echo "⚡ Current Streak: 807 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 85%"
+      "progress": "█████████░ 90%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 75%"
+      "progress": "███████░░░ 77%"
     },
     {
       "name": "Youtube-Shorts-Downloader-2025",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 64%"
+      "progress": "█████████░ 95%"
     }
   ]
 }
