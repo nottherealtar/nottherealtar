@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 74%"
+      "progress": "██████░░░░ 60%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 88%"
+      "progress": "████████░░ 80%"
     },
     {
       "name": "Youtube-Shorts-Downloader-2025",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "█████████░ 92%"
+      "progress": "████████░░ 82%"
     }
   ]
 }
