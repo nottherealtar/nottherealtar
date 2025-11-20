@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 888 Days"
+echo "⚡ Current Streak: 0 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "███████░░░ 78%"
+      "progress": "█████████░ 95%"
     },
     {
       "name": "brrrcommits",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "████████░░ 86%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 73%"
+      "progress": "███████░░░ 70%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred nottherealtar/TerrificOCR
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
-1. 🆕 Created branch in nottherealtar/TerrificOCR
-1. 🆕 Created branch in nottherealtar/Youtube-Shorts-Downloader-2025
-1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
-1. ⭐ Starred janhq/jan
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
 <!--END_SECTION:activity-->
 
 ---
