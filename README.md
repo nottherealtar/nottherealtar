@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 809 Days"
+echo "⚡ Current Streak: 888 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "TerrificOCR",
+      "status": "🟢 active",
+      "tech": [
+        "JavaScript"
+      ],
+      "progress": "███████░░░ 78%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 68%"
+      "progress": "██████░░░░ 63%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 82%"
-    },
-    {
-      "name": "Youtube-Shorts-Downloader-2025",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "█████████░ 95%"
+      "progress": "███████░░░ 73%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
+1. 🆕 Created branch in nottherealtar/TerrificOCR
 1. 🆕 Created branch in nottherealtar/Youtube-Shorts-Downloader-2025
 1. 🔨 Pushed 1 commit(s) to nottherealtar/nottherealtar
 1. ⭐ Starred janhq/jan
-1. ⭐ Starred Sewer2K/KaiyaFi
-1. ⭐ Starred JustArchiNET/ArchiSteamFarm
 <!--END_SECTION:activity-->
 
 ---
