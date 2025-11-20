@@ -159,15 +159,15 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
+      "name": "TerrificOCR",
       "status": "🟢 active",
       "tech": [
-        "Markdown"
+        "JavaScript"
       ],
-      "progress": "█████████░ 99%"
+      "progress": "████████░░ 81%"
     },
     {
-      "name": "nottherealtar",
+      "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
@@ -175,12 +175,12 @@ drwxr-xr-x  2 user  staff
       "progress": "████████░░ 86%"
     },
     {
-      "name": "TerrificOCR",
+      "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
-        "JavaScript"
+        "Markdown"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "██████░░░░ 69%"
     }
   ]
 }
