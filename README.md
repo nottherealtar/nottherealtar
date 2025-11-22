@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 61%"
+      "progress": "████████░░ 87%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 94%"
+      "progress": "████████░░ 81%"
     },
     {
       "name": "TerrificOCR",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "JavaScript"
       ],
-      "progress": "████████░░ 81%"
+      "progress": "█████████░ 94%"
     }
   ]
 }
