@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "Youtube-Shorts-Downloader-2025",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "████████░░ 88%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "████████░░ 82%"
+    },
+    {
+      "name": "Youtube-Shorts-Downloader-2025",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "█████████░ 90%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 77%"
+      "progress": "█████████░ 96%"
     }
   ]
 }
@@ -231,10 +231,10 @@ drwxr-xr-x  2 user  staff
 
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Youtube-Shorts-Downloader-2025
+1. 🔨 Pushed 1 commit(s) to nottherealtar/Youtube-Shorts-Downloader-2025
 1. 🎉 reopened PR in nottherealtar/Youtube-Shorts-Downloader-2025
 1. 🎉 closed PR in nottherealtar/Youtube-Shorts-Downloader-2025
 1. 📌 IssueComment in nottherealtar/Youtube-Shorts-Downloader-2025
-1. 📌 PullRequestReview in nottherealtar/Youtube-Shorts-Downloader-2025
 <!--END_SECTION:activity-->
 
 ---
