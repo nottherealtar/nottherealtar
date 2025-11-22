@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "Youtube-Shorts-Downloader-2025",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 88%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 71%"
+      "progress": "██████░░░░ 65%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 78%"
-    },
-    {
-      "name": "TerrificOCR",
-      "status": "🟢 active",
-      "tech": [
-        "JavaScript"
-      ],
-      "progress": "███████░░░ 73%"
+      "progress": "███████░░░ 77%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred kalliope-project/kalliope
-1. 🍴 Forked nottherealtar/robinhood-ai
-1. ⭐ Starred apurvsinghgautam/robin
-1. ⭐ Starred nottherealtar/TerrificOCR
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TerrificOCR
+1. 🔨 Pushed 1 commit(s) to nottherealtar/Youtube-Shorts-Downloader-2025
+1. 🎉 reopened PR in nottherealtar/Youtube-Shorts-Downloader-2025
+1. 🎉 closed PR in nottherealtar/Youtube-Shorts-Downloader-2025
+1. 📌 IssueComment in nottherealtar/Youtube-Shorts-Downloader-2025
+1. 📌 PullRequestReview in nottherealtar/Youtube-Shorts-Downloader-2025
 <!--END_SECTION:activity-->
 
 ---
