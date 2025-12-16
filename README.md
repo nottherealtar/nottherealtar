@@ -51,7 +51,7 @@ experience:
 
 echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: █░░░░░░░░░ 19%"
+echo "Total Commits: ██░░░░░░░░ 20%"
 echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 99%"
+      "progress": "████████░░ 83%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 89%"
+      "progress": "█████████░ 99%"
     },
     {
       "name": "Youtube-Shorts-Downloader-2025",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 60%"
+      "progress": "██████░░░░ 65%"
     }
   ]
 }
