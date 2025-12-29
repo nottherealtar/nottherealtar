@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 89%"
+      "progress": "███████░░░ 71%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 94%"
+      "progress": "█████████░ 95%"
     },
     {
       "name": "Youtube-Shorts-Downloader-2025",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "███████░░░ 78%"
+      "progress": "██████░░░░ 61%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred Trixarian/NetherSX2-patch
 1. ⭐ Starred joe-desimone/mongobleed
 1. ⭐ Starred trimstray/the-book-of-secret-knowledge
 1. ⭐ Starred thedotmack/claude-mem
 1. ⭐ Starred mlabonne/llm-course
-1. ⭐ Starred Tencent/WeKnora
 <!--END_SECTION:activity-->
 
 ---
