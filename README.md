@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 851 Days"
+echo "⚡ Current Streak: 0 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 75%"
+      "progress": "███████░░░ 76%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 70%"
     },
     {
       "name": "Youtube-Shorts-Downloader-2025",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "████████░░ 85%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred Trixarian/NetherSX2-patch
-1. ⭐ Starred joe-desimone/mongobleed
-1. ⭐ Starred trimstray/the-book-of-secret-knowledge
-1. ⭐ Starred thedotmack/claude-mem
-1. ⭐ Starred mlabonne/llm-course
+1. ⭐ Starred 0x90/wifi-arsenal
+1. ⭐ Starred awesome-selfhosted/awesome-selfhosted
+1. ⭐ Starred organicmaps/organicmaps
+1. ⭐ Starred harvard-edge/cs249r_book
+1. ⭐ Starred HandsOnLLM/Hands-On-Large-Language-Models
 <!--END_SECTION:activity-->
 
 ---
