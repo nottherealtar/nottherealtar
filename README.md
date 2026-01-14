@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 864 Days"
+echo "⚡ Current Streak: 888 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -159,6 +159,14 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "nottherealtar",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "███████░░░ 77%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
@@ -167,20 +175,12 @@ drwxr-xr-x  2 user  staff
       "progress": "█████████░ 91%"
     },
     {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "███████░░░ 71%"
-    },
-    {
       "name": "TarsOnlineCogs",
       "status": "🟢 active",
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 60%"
+      "progress": "██████░░░░ 66%"
     }
   ]
 }
