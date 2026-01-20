@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 870 Days"
+echo "⚡ Current Streak: 20 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -159,20 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "Wetility-Forms",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "██████░░░░ 65%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 77%"
+      "progress": "████████░░ 80%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 76%"
+    },
+    {
+      "name": "Wetility-Forms",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "██████░░░░ 65%"
     }
   ]
 }
