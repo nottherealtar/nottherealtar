@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "███████░░░ 70%"
-    },
-    {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "████████░░ 80%"
+    },
+    {
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "█████████░ 95%"
     },
     {
       "name": "Wetility-Forms",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 87%"
+      "progress": "███████░░░ 76%"
     }
   ]
 }
@@ -230,10 +230,10 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred simdjson/simdjson
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Wetility-Forms
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Wetility-Forms
 1. 🆕 Created branch in nottherealtar/Wetility-Forms
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 <!--END_SECTION:activity-->
 
