@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 80%"
+      "progress": "█████████░ 96%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 98%"
+      "progress": "█████████░ 96%"
     },
     {
       "name": "Wetility-Forms",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 67%"
+      "progress": "████████░░ 87%"
     }
   ]
 }
