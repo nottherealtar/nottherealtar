@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "█████████░ 95%"
     },
     {
       "name": "Wetility-Forms",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "████████░░ 84%"
     }
   ]
 }
