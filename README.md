@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 72%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 71%"
+      "progress": "██████░░░░ 68%"
     },
     {
       "name": "Wetility-Forms",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 84%"
+      "progress": "██████░░░░ 67%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred patchy631/ai-engineering-hub
 1. 🍴 Forked Mugguru/Terraria-Helper
 1. ⭐ Starred notable/notable
 1. ⭐ Starred Gowtham-Darkseid/AutoPentestX
 1. ⭐ Starred aagentah/nw_wrld
-1. ⭐ Starred simdjson/simdjson
 <!--END_SECTION:activity-->
 
 ---
