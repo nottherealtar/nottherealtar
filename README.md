@@ -159,28 +159,28 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "Arc-Booster",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 88%"
+    },
+    {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "███████░░░ 74%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 70%"
-    },
-    {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "█████████░ 97%"
-    },
-    {
-      "name": "Wetility-Forms",
-      "status": "🟡 stable",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "██████░░░░ 66%"
+      "progress": "█████████░ 93%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred patchy631/ai-engineering-hub
-1. 🍴 Forked Mugguru/Terraria-Helper
-1. ⭐ Starred notable/notable
-1. ⭐ Starred Gowtham-Darkseid/AutoPentestX
-1. ⭐ Starred aagentah/nw_wrld
+1. 🍴 Forked MarkWasfy00/ARC-raiders-guide
+1. ⭐ Starred MarkWasfy00/ARC-raiders-guide
+1. 🔨 Pushed 1 commit(s) to nottherealtar/Arc-Booster
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
+1. 🆕 Created branch in nottherealtar/Arc-Booster
 <!--END_SECTION:activity-->
 
 ---
