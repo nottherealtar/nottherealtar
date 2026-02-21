@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "████████░░ 88%"
-    },
-    {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 83%"
+      "progress": "███████░░░ 78%"
+    },
+    {
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "██████░░░░ 69%"
     },
     {
       "name": "Arc-Booster",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "████████░░ 83%"
     }
   ]
 }
