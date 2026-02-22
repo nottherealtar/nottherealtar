@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "███████░░░ 73%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 70%"
+      "progress": "████████░░ 83%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 79%"
-    },
-    {
-      "name": "Arc-Booster",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "██████░░░░ 63%"
+      "progress": "█████████░ 95%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-raiders-guide
-1. 📌 PullRequestReview in nottherealtar/ARC-raiders-guide
-1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-Sight
-1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-Sight
-1. 🍴 Forked MarkWasfy00/ARC-raiders-guide
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 <!--END_SECTION:activity-->
 
 ---
