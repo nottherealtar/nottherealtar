@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 99%"
+      "progress": "███████░░░ 79%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 64%"
+      "progress": "███████░░░ 77%"
     },
     {
       "name": "Arc-Booster",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "████████░░ 81%"
+      "progress": "█████████░ 91%"
     }
   ]
 }
