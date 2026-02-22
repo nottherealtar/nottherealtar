@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 86%"
+      "progress": "███████░░░ 70%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 85%"
+      "progress": "███████░░░ 79%"
     },
     {
       "name": "Arc-Booster",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "████████░░ 86%"
+      "progress": "██████░░░░ 63%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-raiders-guide
+1. 📌 PullRequestReview in nottherealtar/ARC-raiders-guide
 1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-Sight
 1. 🔨 Pushed 1 commit(s) to nottherealtar/ARC-Sight
 1. 🍴 Forked MarkWasfy00/ARC-raiders-guide
-1. ⭐ Starred MarkWasfy00/ARC-raiders-guide
-1. 🔨 Pushed 1 commit(s) to nottherealtar/Arc-Booster
 <!--END_SECTION:activity-->
 
 ---
