@@ -159,14 +159,6 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "G-uests",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "████████░░ 83%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 67%"
+      "progress": "██████░░░░ 68%"
+    },
+    {
+      "name": "G-uests",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "█████████░ 97%"
     }
   ]
 }
