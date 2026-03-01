@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "████████░░ 88%"
+      "progress": "████████░░ 83%"
     },
     {
       "name": "brrrcommits",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 75%"
+      "progress": "██████░░░░ 64%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 60%"
+      "progress": "██████░░░░ 67%"
     }
   ]
 }
@@ -231,9 +231,9 @@ drwxr-xr-x  2 user  staff
 
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
+1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
+1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
 1. 🆕 Created branch in nottherealtar/G-uests
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 <!--END_SECTION:activity-->
 
