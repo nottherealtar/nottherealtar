@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 79%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "███████░░░ 74%"
+      "progress": "██████░░░░ 63%"
     }
   ]
 }
