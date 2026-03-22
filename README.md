@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 91%"
+      "progress": "███████░░░ 70%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 97%"
+      "progress": "████████░░ 83%"
     },
     {
       "name": "react-portfolio",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 80%"
+      "progress": "███████░░░ 78%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred 0x4meliorate/toxnet
+1. ⭐ Starred danbar2003/COVID-20
+1. ⭐ Starred InsForge/InsForge
 1. ⭐ Starred Cr0mb/KTG-StealthBot
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
-1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
-1. 🔨 Pushed 1 commit(s) to nottherealtar/G-uests
 <!--END_SECTION:activity-->
 
 ---
