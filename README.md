@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "tar.copy",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "████████░░ 86%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 69%"
+      "progress": "█████████░ 91%"
+    },
+    {
+      "name": "tar.copy",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "███████░░░ 77%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "████████░░ 87%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred yazinsai/OpenOats
 1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
 1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
-1. ⭐ Starred dereknguyenio/fabric-fab-cicd-ado-example
-1. ⭐ Starred 0x4meliorate/toxnet
-1. ⭐ Starred danbar2003/COVID-20
+1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
+1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
 <!--END_SECTION:activity-->
 
 ---
