@@ -51,7 +51,7 @@ experience:
 
 echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: ██░░░░░░░░ 21%"
+echo "Total Commits: ██░░░░░░░░ 22%"
 echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "tar.copy",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "████████░░ 86%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 98%"
+      "progress": "██████░░░░ 69%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 66%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟡 stable",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "█████████░ 99%"
+      "progress": "██████░░░░ 65%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
+1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
 1. ⭐ Starred dereknguyenio/fabric-fab-cicd-ado-example
 1. ⭐ Starred 0x4meliorate/toxnet
 1. ⭐ Starred danbar2003/COVID-20
-1. ⭐ Starred InsForge/InsForge
-1. ⭐ Starred Cr0mb/KTG-StealthBot
 <!--END_SECTION:activity-->
 
 ---
