@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 92%"
+      "progress": "██████░░░░ 69%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 68%"
+      "progress": "████████░░ 81%"
     },
     {
       "name": "tar.copy",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 86%"
+      "progress": "█████████░ 98%"
     }
   ]
 }
