@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "TarsOnlineCogs",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "████████░░ 81%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 69%"
+      "progress": "███████░░░ 77%"
+    },
+    {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 85%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 72%"
+      "progress": "████████░░ 88%"
     }
   ]
 }
@@ -233,8 +233,8 @@ drwxr-xr-x  2 user  staff
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. ⭐ Starred yazinsai/OpenOats
-1. 🔨 Pushed 1 commit(s) to nottherealtar/tar.copy
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 <!--END_SECTION:activity-->
 
 ---
