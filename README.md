@@ -159,6 +159,14 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "nottherealtar",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "████████░░ 89%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
@@ -167,20 +175,12 @@ drwxr-xr-x  2 user  staff
       "progress": "█████████░ 90%"
     },
     {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "██████░░░░ 65%"
-    },
-    {
       "name": "TarsOnlineCogs",
       "status": "🟢 active",
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 67%"
+      "progress": "████████░░ 87%"
     }
   ]
 }
