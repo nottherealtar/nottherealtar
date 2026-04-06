@@ -159,26 +159,26 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 86%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 76%"
+      "progress": "███████░░░ 78%"
     },
     {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
         "Markdown"
-      ],
-      "progress": "█████████░ 99%"
-    },
-    {
-      "name": "TarsOnlineCogs",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
       ],
       "progress": "███████░░░ 74%"
     }
@@ -230,9 +230,9 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. ⭐ Starred ultraworkers/claw-code
 1. ⭐ Starred webadderall/Recordly
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 <!--END_SECTION:activity-->
