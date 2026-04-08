@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 91%"
+      "progress": "██████░░░░ 65%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 82%"
+      "progress": "██████░░░░ 62%"
     },
     {
       "name": "TarsOnlineCogs",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "███████░░░ 75%"
+      "progress": "██████░░░░ 64%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred conorluddy/ios-simulator-skill
+1. ⭐ Starred Sewer2K/ToxNetV2
+1. ⭐ Starred rowboatlabs/rowboat
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. ⭐ Starred ultraworkers/claw-code
 <!--END_SECTION:activity-->
 
 ---
