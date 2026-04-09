@@ -53,7 +53,7 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 22%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ░░░░░░░░░░ 9%"
+echo "Code Reviews:  █░░░░░░░░░ 11%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
 echo "⚡ Current Streak: 948 Days"
@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "█████████░ 90%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 72%"
+      "progress": "████████░░ 87%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 78%"
-    },
-    {
-      "name": "TarsOnlineCogs",
-      "status": "🟢 active",
-      "tech": [
-        "Python"
-      ],
-      "progress": "█████████░ 93%"
+      "progress": "███████░░░ 74%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🎉 merged PR in nottherealtar/react-portfolio
+1. 🎉 opened PR in nottherealtar/react-portfolio
 1. ⭐ Starred conorluddy/ios-simulator-skill
 1. ⭐ Starred Sewer2K/ToxNetV2
-1. ⭐ Starred rowboatlabs/rowboat
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 <!--END_SECTION:activity-->
 
 ---
