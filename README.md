@@ -53,7 +53,7 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 22%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  █░░░░░░░░░ 11%"
+echo "Code Reviews:  █░░░░░░░░░ 13%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
 echo "⚡ Current Streak: 948 Days"
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 99%"
+      "progress": "██████░░░░ 64%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 73%"
+      "progress": "██████░░░░ 68%"
     },
     {
       "name": "react-portfolio",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "██████░░░░ 67%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 opened PR in nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🎉 merged PR in nottherealtar/react-portfolio
 1. 🎉 opened PR in nottherealtar/react-portfolio
 1. ⭐ Starred conorluddy/ios-simulator-skill
-1. ⭐ Starred Sewer2K/ToxNetV2
 <!--END_SECTION:activity-->
 
 ---
