@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "██████░░░░ 69%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 88%"
+      "progress": "█████████░ 98%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 95%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "███████░░░ 75%"
+      "progress": "█████████░ 98%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🎉 opened PR in nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🎉 merged PR in nottherealtar/react-portfolio
 1. 🎉 opened PR in nottherealtar/react-portfolio
-1. ⭐ Starred conorluddy/ios-simulator-skill
 <!--END_SECTION:activity-->
 
 ---
