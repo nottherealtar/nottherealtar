@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 70%"
+      "progress": "█████████░ 90%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 60%"
+      "progress": "███████░░░ 72%"
     },
     {
       "name": "TarsOnlineCogs",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Python"
       ],
-      "progress": "██████░░░░ 61%"
+      "progress": "████████░░ 80%"
     }
   ]
 }
