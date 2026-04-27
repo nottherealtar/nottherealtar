@@ -51,7 +51,7 @@ experience:
 
 echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
-echo "Total Commits: ░░░░░░░░░░ 0%"
+echo "Total Commits: ██░░░░░░░░ 22%"
 echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ░░░░░░░░░░ 9%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 79%"
+      "progress": "███████░░░ 77%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 60%"
+      "progress": "██████░░░░ 67%"
     },
     {
       "name": "react-portfolio",
