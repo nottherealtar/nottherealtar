@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "██████░░░░ 60%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 82%"
+      "progress": "██████░░░░ 61%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 60%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "███████░░░ 72%"
+      "progress": "█████████░ 98%"
     }
   ]
 }
@@ -230,11 +230,7 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+
 <!--END_SECTION:activity-->
 
 ---
