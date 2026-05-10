@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 97%"
+      "progress": "█████████░ 99%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 90%"
+      "progress": "██████░░░░ 66%"
     },
     {
       "name": "react-portfolio",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 69%"
+      "progress": "██████░░░░ 68%"
     }
   ]
 }
@@ -230,8 +230,8 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred mattpocock/skills
 1. ⭐ Starred Anil-matcha/Open-Generative-AI
-1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
