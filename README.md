@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "███████░░░ 75%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 78%"
+      "progress": "███████░░░ 70%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 77%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "███████░░░ 73%"
+      "progress": "████████░░ 86%"
     }
   ]
 }
@@ -230,7 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-
+1. ⭐ Starred GrabowskiDev/TempGBA4PSP-Single-game
+1. ⭐ Starred mattpocock/skills
+1. ⭐ Starred Anil-matcha/Open-Generative-AI
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 <!--END_SECTION:activity-->
 
 ---
