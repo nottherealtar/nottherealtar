@@ -159,28 +159,28 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "████████░░ 83%"
-    },
-    {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "██████░░░░ 66%"
-    },
-    {
       "name": "react-portfolio",
       "status": "🟢 active",
       "tech": [
         "HTML"
       ],
-      "progress": "███████░░░ 70%"
+      "progress": "██████░░░░ 64%"
+    },
+    {
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "█████████░ 98%"
+    },
+    {
+      "name": "nevallio-dashboard-starter",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "████████░░ 89%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🆕 Created branch in nottherealtar/nevallio-dashboard-starter
 1. 🍴 Forked respond-io/mcp-server
 1. ⭐ Starred respond-io/mcp-server
 1. ⭐ Starred GrabowskiDev/TempGBA4PSP-Single-game
 1. ⭐ Starred mattpocock/skills
-1. ⭐ Starred Anil-matcha/Open-Generative-AI
 <!--END_SECTION:activity-->
 
 ---
