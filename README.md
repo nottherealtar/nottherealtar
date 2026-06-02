@@ -159,20 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "████████░░ 81%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 85%"
+      "progress": "███████░░░ 76%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 61%"
+      "progress": "██████░░░░ 64%"
+    },
+    {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "█████████░ 98%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred pewdiepie-archdaemon/odysseus
 1. 🍴 Forked potchin/fh6-web
 1. 🎉 merged PR in nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 📌 IssueComment in nottherealtar/react-portfolio
-1. 🎉 opened PR in nottherealtar/react-portfolio
 <!--END_SECTION:activity-->
 
 ---
