@@ -53,7 +53,7 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 22%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  █░░░░░░░░░ 18%"
+echo "Code Reviews:  ██░░░░░░░░ 20%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
 echo "⚡ Current Streak: 1012 Days"
@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "Duncan",
+      "status": "🟢 active",
+      "tech": [
+        "TypeScript"
+      ],
+      "progress": "██████░░░░ 62%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 80%"
+      "progress": "████████░░ 87%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 63%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "██████░░░░ 64%"
+      "progress": "█████████░ 91%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 opened PR in nottherealtar/Duncan
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 1. 🎉 opened PR in Vendicated/Vencord
-1. 🆕 Created branch in nottherealtar/Vencord
 <!--END_SECTION:activity-->
 
 ---
