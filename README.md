@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "██████░░░░ 63%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 94%"
+      "progress": "████████░░ 80%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 84%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "████████░░ 87%"
+      "progress": "█████████░ 92%"
     }
   ]
 }
@@ -230,9 +230,9 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred XiaomiMiMo/MiMo-Code
 1. ⭐ Starred 6xvl/paralives-plugins-index
 1. 🎉 opened PR in nottherealtar/Duncan
-1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Vencord
 <!--END_SECTION:activity-->
