@@ -159,28 +159,28 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "█████████░ 92%"
-    },
-    {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "████████░░ 88%"
-    },
-    {
       "name": "react-portfolio",
       "status": "🟢 active",
       "tech": [
         "HTML"
       ],
-      "progress": "███████░░░ 72%"
+      "progress": "██████░░░░ 65%"
+    },
+    {
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "███████░░░ 77%"
+    },
+    {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 86%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/react-portfolio
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
-1. ⭐ Starred XiaomiMiMo/MiMo-Code
 <!--END_SECTION:activity-->
 
 ---
