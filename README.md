@@ -164,21 +164,21 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 66%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "███████░░░ 77%"
+      "progress": "██████░░░░ 64%"
     },
     {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
         "Markdown"
+      ],
+      "progress": "██████░░░░ 65%"
+    },
+    {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
       ],
       "progress": "████████░░ 87%"
     }
