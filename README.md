@@ -159,20 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "TarsOnlineCogs",
+      "status": "🟢 active",
+      "tech": [
+        "Python"
+      ],
+      "progress": "████████░░ 85%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 90%"
-    },
-    {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "█████████░ 90%"
+      "progress": "███████░░░ 72%"
     },
     {
       "name": "react-portfolio",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 68%"
+      "progress": "████████░░ 81%"
     }
   ]
 }
@@ -230,10 +230,10 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🔨 Pushed 1 commit(s) to nottherealtar/TarsOnlineCogs
 1. ⭐ Starred ByteCorum/DragonBurn
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Clippy9-5
 1. 🔨 Pushed 1 commit(s) to nottherealtar/Clippy9-5
-1. 📌 Delete in nottherealtar/Clippy9-5
 1. 📌 Delete in nottherealtar/Clippy9-5
 <!--END_SECTION:activity-->
 
