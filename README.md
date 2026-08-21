@@ -159,14 +159,6 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "brrrcommits",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "███████░░░ 77%"
-    },
-    {
       "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
@@ -175,12 +167,20 @@ drwxr-xr-x  2 user  staff
       "progress": "█████████░ 92%"
     },
     {
+      "name": "brrrcommits",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "███████░░░ 75%"
+    },
+    {
       "name": "react-portfolio",
       "status": "🟢 active",
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 84%"
+      "progress": "████████░░ 85%"
     }
   ]
 }
