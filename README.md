@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 98%"
+      "progress": "██████░░░░ 64%"
     },
     {
       "name": "nottherealtar",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 98%"
+      "progress": "██████░░░░ 65%"
     },
     {
       "name": "react-portfolio",
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred DietrichGebert/ponytail
+1. ⭐ Starred anomalyco/opencode
+1. ⭐ Starred JuliusBrussee/caveman
 1. ⭐ Starred chaitanyagiri/munder-difflin
 1. ⭐ Starred ARMSX2/ARMSX3
-1. ⭐ Starred Sewer2K/API-Key-scraper-for-popular-LLMs
-1. 🍴 Forked undefined
-1. ⭐ Starred trycompai/crm
 <!--END_SECTION:activity-->
 
 ---
