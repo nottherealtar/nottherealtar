@@ -53,10 +53,10 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 23%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ████░░░░░░ 44%"
+echo "Code Reviews:  ████░░░░░░ 47%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 1099 Days"
+echo "⚡ Current Streak: 1100 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -159,20 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "████████░░ 86%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 63%"
+      "progress": "███████░░░ 74%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 66%"
+      "progress": "███████░░░ 70%"
+    },
+    {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "███████░░░ 76%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 opened PR in nottherealtar/react-portfolio
 1. ⭐ Starred DietrichGebert/ponytail
 1. ⭐ Starred anomalyco/opencode
 1. ⭐ Starred JuliusBrussee/caveman
 1. ⭐ Starred chaitanyagiri/munder-difflin
-1. ⭐ Starred ARMSX2/ARMSX3
 <!--END_SECTION:activity-->
 
 ---
