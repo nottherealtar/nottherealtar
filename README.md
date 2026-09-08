@@ -53,7 +53,7 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 23%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ██████░░░░ 62%"
+echo "Code Reviews:  ██████░░░░ 64%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
 echo "⚡ Current Streak: 1101 Days"
@@ -159,12 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "nottherealtar",
+      "name": "react-portfolio",
       "status": "🟢 active",
       "tech": [
-        "Markdown"
+        "HTML"
       ],
-      "progress": "██████░░░░ 65%"
+      "progress": "█████████░ 99%"
     },
     {
       "name": "brrrcommits",
@@ -172,15 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 83%"
+      "progress": "███████░░░ 74%"
     },
     {
-      "name": "react-portfolio",
+      "name": "nottherealtar",
       "status": "🟢 active",
       "tech": [
-        "HTML"
+        "Markdown"
       ],
-      "progress": "███████░░░ 76%"
+      "progress": "████████░░ 87%"
     }
   ]
 }
@@ -230,8 +230,8 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 opened PR in nottherealtar/react-portfolio
 1. 🎉 merged PR in nottherealtar/react-portfolio
+1. 🎉 opened PR in nottherealtar/react-portfolio
 1. 🎉 opened PR in nottherealtar/react-portfolio
 1. 🎉 merged PR in nottherealtar/react-portfolio
 1. 🎉 opened PR in nottherealtar/react-portfolio
