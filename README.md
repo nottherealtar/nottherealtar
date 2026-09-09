@@ -53,10 +53,10 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 23%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ██████░░░░ 62%"
+echo "Code Reviews:  ██████░░░░ 67%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 0 Days"
+echo "⚡ Current Streak: 618 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,15 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 99%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "█████████░ 97%"
+      "progress": "███████░░░ 79%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 73%"
+      "progress": "████████░░ 88%"
+    },
+    {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "███████░░░ 75%"
     }
   ]
 }
