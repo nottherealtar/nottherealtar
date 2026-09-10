@@ -53,7 +53,7 @@ echo "📊 GitHub Analytics"
 echo "━━━━━━━━━━━━━━━━━━━"
 echo "Total Commits: ██░░░░░░░░ 23%"
 echo "Active Repos:  █████████░ 98%"
-echo "Code Reviews:  ██████░░░░ 67%"
+echo "Code Reviews:  ██████░░░░ 69%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
 echo "⚡ Current Streak: 1103 Days"
@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "Road-To-FullStack",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
+      "progress": "████████░░ 83%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 96%"
+      "progress": "█████████░ 93%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 71%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "███████░░░ 78%"
+      "progress": "███████░░░ 74%"
     }
   ]
 }
@@ -230,8 +230,8 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
-1. 📌 IssueComment in nottherealtar/react-portfolio
-1. 📌 IssueComment in nottherealtar/react-portfolio
+1. 🎉 merged PR in nottherealtar/Road-To-FullStack
+1. 🎉 opened PR in nottherealtar/Road-To-FullStack
 1. 📌 IssueComment in nottherealtar/react-portfolio
 1. 📌 IssueComment in nottherealtar/react-portfolio
 1. 📌 IssueComment in nottherealtar/react-portfolio
