@@ -159,12 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "warden",
+      "name": "react-portfolio",
       "status": "🟢 active",
       "tech": [
-        "JavaScript"
+        "HTML"
       ],
-      "progress": "█████████░ 95%"
+      "progress": "████████░░ 85%"
     },
     {
       "name": "brrrcommits",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 81%"
+      "progress": "██████░░░░ 69%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 68%"
+      "progress": "██████░░░░ 69%"
     }
   ]
 }
@@ -231,10 +231,10 @@ drwxr-xr-x  2 user  staff
 
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 1 commit(s) to nottherealtar/warden
+1. 🔨 Pushed 1 commit(s) to nottherealtar/warden
 1. ⭐ Starred fleetbase/fleetbase
 1. 🎉 opened PR in nottherealtar/react-portfolio
 1. ⭐ Starred anmolkapil/plexo
-1. 🎉 merged PR in nottherealtar/react-portfolio
 <!--END_SECTION:activity-->
 
 ---
