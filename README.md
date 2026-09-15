@@ -159,12 +159,20 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "████████░░ 83%"
+    },
+    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 78%"
+      "progress": "████████░░ 85%"
     },
     {
       "name": "nottherealtar",
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 98%"
-    },
-    {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "████████░░ 87%"
+      "progress": "██████░░░░ 64%"
     }
   ]
 }
@@ -230,11 +230,11 @@ drwxr-xr-x  2 user  staff
 </div>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred anmolkapil/plexo
 1. 🎉 merged PR in nottherealtar/react-portfolio
 1. 🎉 opened PR in nottherealtar/react-portfolio
 1. ⭐ Starred SnailSploit/Claude-Red
 1. ⭐ Starred vxcontrol/pentagi
-1. 🔨 Pushed 1 commit(s) to nottherealtar/Road-To-FullStack
 <!--END_SECTION:activity-->
 
 ---
