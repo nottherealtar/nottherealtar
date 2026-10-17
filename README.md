@@ -159,20 +159,12 @@ drwxr-xr-x  2 user  staff
 {
   "active": [
     {
-      "name": "react-portfolio",
-      "status": "🟢 active",
-      "tech": [
-        "HTML"
-      ],
-      "progress": "█████████░ 97%"
-    },
-    {
       "name": "brrrcommits",
       "status": "🟢 active",
       "tech": [
         "Markdown"
       ],
-      "progress": "███████░░░ 76%"
+      "progress": "████████░░ 81%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +172,15 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 86%"
+      "progress": "████████░░ 80%"
+    },
+    {
+      "name": "react-portfolio",
+      "status": "🟢 active",
+      "tech": [
+        "HTML"
+      ],
+      "progress": "██████░░░░ 65%"
     }
   ]
 }
@@ -232,8 +232,6 @@ drwxr-xr-x  2 user  staff
 <!--START_SECTION:activity-->
 1. 🍴 Forked storytold/photocraft
 1. 🍴 Forked storytold/effectcraft
-1. 🔨 Pushed 1 commit(s) to nottherealtar/warden
-1. 🔨 Pushed 1 commit(s) to nottherealtar/warden
 <!--END_SECTION:activity-->
 
 ---
