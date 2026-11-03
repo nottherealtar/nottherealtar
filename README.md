@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ███████░░░ 73%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 0 Days"
+echo "⚡ Current Streak: 1157 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,6 +164,14 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
+      "progress": "██████░░░░ 63%"
+    },
+    {
+      "name": "nottherealtar",
+      "status": "🟢 active",
+      "tech": [
+        "Markdown"
+      ],
       "progress": "██████░░░░ 60%"
     },
     {
@@ -172,15 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "██████░░░░ 65%"
-    },
-    {
-      "name": "nottherealtar",
-      "status": "🟢 active",
-      "tech": [
-        "Markdown"
-      ],
-      "progress": "████████░░ 87%"
+      "progress": "██████░░░░ 66%"
     }
   ]
 }
