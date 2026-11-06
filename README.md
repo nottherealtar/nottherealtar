@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "███████░░░ 72%"
+      "progress": "██████░░░░ 65%"
     },
     {
       "name": "brrrcommits",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 83%"
+      "progress": "█████████░ 97%"
     },
     {
       "name": "nottherealtar",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 80%"
+      "progress": "██████░░░░ 69%"
     }
   ]
 }
