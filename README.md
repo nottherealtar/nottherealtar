@@ -56,7 +56,7 @@ echo "Active Repos:  █████████░ 98%"
 echo "Code Reviews:  ███████░░░ 78%"
 echo "Issues Fixed:  ██░░░░░░░░ 20%"
 echo ""
-echo "⚡ Current Streak: 1169 Days"
+echo "⚡ Current Streak: 1170 Days"
 ```
 <!--STATS_SECTION:end-->
 
@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "█████████░ 96%"
+      "progress": "██████░░░░ 69%"
     },
     {
       "name": "react-portfolio",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "████████░░ 89%"
+      "progress": "███████░░░ 72%"
     },
     {
       "name": "brrrcommits",
@@ -180,7 +180,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "████████░░ 86%"
+      "progress": "██████░░░░ 65%"
     }
   ]
 }
