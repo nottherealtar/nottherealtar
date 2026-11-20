@@ -164,7 +164,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "Markdown"
       ],
-      "progress": "██████░░░░ 66%"
+      "progress": "████████░░ 85%"
     },
     {
       "name": "react-portfolio",
@@ -172,7 +172,7 @@ drwxr-xr-x  2 user  staff
       "tech": [
         "HTML"
       ],
-      "progress": "███████░░░ 70%"
+      "progress": "████████░░ 84%"
     },
     {
       "name": "brrrcommits",
